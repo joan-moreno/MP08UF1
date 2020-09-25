@@ -8,7 +8,7 @@
         <?php
         echo "Alumnes i professors";
         function funcion(){
-            echo "Maria";
+            echo "Anabel";
         }
         ?>
     </body>
