@@ -6,7 +6,10 @@
     </head>
     <body>
         <?php
-        
+        echo "Alumnes i professors";
+        function funcion(){
+            echo "Maria";
+        }
         ?>
     </body>
 </html>
