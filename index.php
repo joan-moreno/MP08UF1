@@ -20,7 +20,7 @@
             echo "CAllejas";
         }
         function JMC_especial(){
-            echo "";
+            echo "Joan Moreno Callejas";
         }
         ?>
     </body>
