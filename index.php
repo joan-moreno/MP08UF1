@@ -17,7 +17,10 @@
             echo "Moreno";
         }
         function C(){
-            echo "Callejas";
+            echo "CAllejas";
+        }
+        function JMC_especial(){
+            echo "";
         }
         ?>
     </body>
