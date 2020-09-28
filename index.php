@@ -13,6 +13,10 @@
                 function J(){
             echo "Joan";
         }
+        function M(){
+            echo "Moreno";
+        }
+        
         ?>
     </body>
 </html>
