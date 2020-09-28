@@ -10,6 +10,9 @@
         function funcion(){
             echo "Anabel";
         }
+                function J(){
+            echo "Joan";
+        }
         ?>
     </body>
 </html>
