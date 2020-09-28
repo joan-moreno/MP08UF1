@@ -16,7 +16,9 @@
         function M(){
             echo "Moreno";
         }
-        
+        function C(){
+            echo "Callejas";
+        }
         ?>
     </body>
 </html>
